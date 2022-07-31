@@ -67,7 +67,7 @@ background: linear-gradient(rgba(255, 255, 255, 0),rgb(0, 0, 0));
 border: 1px solid #000;
 border-radius: 20px;
 padding: 35px;
-margin-left: 120px;
+margin-left: 150px;
 margin-block-start: 30px;
 width: 350px;
 height: 100%;
@@ -134,7 +134,7 @@ text-decoration: none;
 }
     
 .info-text {
-    margin-left: 80px;
+    margin-left: 65px;
     display: inline-block;
     width: 200px;
     
