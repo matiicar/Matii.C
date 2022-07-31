@@ -126,17 +126,10 @@ text-decoration: none;
 
 
    }
-@media screen and (max-width:400px){
+@media screen and (max-width:570px){
     h3{
         margin-top: 80px;
         font-size:40px;
-
-}
-.info-text {
-
-    display: inline-block;
-    width: 100%;
-    
 
 }
 
